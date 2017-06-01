@@ -1,2 +1,3 @@
-# jsladies-equipe-1
-Projeto de tutoria par as garotas do JS Ladies
+# JSLadies - Tutoria
+Projeto de tutoria para as garotas do JS Ladies
+
